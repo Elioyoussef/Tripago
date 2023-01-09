@@ -1,0 +1,33 @@
+{
+    "trips": [
+        {
+            "title": "2 Night Stay in Venice",
+            "price": "$195",
+            "id": 1,
+            "loc": "europe",
+            "phone": "981"
+        },
+        {
+            "title": "3 Night Stay in Paris",
+            "price": "$295",
+            "id": 2,
+            "loc": "europe",
+            "phone": "12"
+        },
+        {
+            "title": "4 Night Stay in beirut",
+            "price": "$395",
+            "id": 3,
+            "loc": "europe",
+            "phone": "961"
+        },
+        {
+            "title": "2 Night Stay in America",
+            "price": "$495",
+            "id": 4,
+            "loc": "america",
+            "phone": "1"
+
+        }
+    ]
+}
